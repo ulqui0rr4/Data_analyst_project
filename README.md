@@ -1,4 +1,4 @@
-# Data_analyst_project
+# Project
 
 **1. Iris Classification - Machine Learning Project**
 
