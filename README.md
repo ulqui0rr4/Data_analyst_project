@@ -1,6 +1,6 @@
 # Data_analyst_project
 
-**1.Iris Classification - Machine Learning Project**
+**1. Iris Classification - Machine Learning Project**
 
 **Overview**
 This project builds a classification model to predict Iris species (Setosa, Versicolor, Virginica) based on sepal and petal measurements. It serves as an introductory machine learning problem and explores data preprocessing, visualization, model training, and evaluation techniques.
