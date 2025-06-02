@@ -1,4 +1,4 @@
-# Project
+# Project Summary
 
 **1. Iris Classification - Machine Learning Project**
 
