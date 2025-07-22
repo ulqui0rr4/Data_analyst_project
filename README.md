@@ -70,6 +70,7 @@ Additional questions explored:
 
 
 **IBM HR Analytics: Employee Attrition & Performance**
+
 A data-driven HR analytics project exploring the key factors influencing employee turnover, satisfaction, and performance. Leveraging Python, SQL, and machine learning, the project provides actionable insights into workforce dynamics using a fictional dataset developed by IBM data scientists.
 
 Tools & Technologies
@@ -112,6 +113,7 @@ Key Insights
 
 
 **Stock Market Analysis – Tech Giants Edition**
+
 A comparative analytics and machine learning project analyzing historical stock data for Apple, Microsoft, Netflix, and Google. This project demonstrates financial data preprocessing, trend detection, and predictive modeling using Python, SQL, and Excel.
 
 Tools & Technologies
