@@ -19,8 +19,8 @@ Project Steps
 - Hyperparameter Tuning: Optimizing model performance with Grid Search
 - Evaluation: Assessing accuracy and visualizing results
 - Insights: Feature importance analysis and decision boundary visualization
-  
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2. Olympics Data Analysis**
 
 A comprehensive data exploration and machine learning project analyzing Summer Olympics medal statistics from 1976 to 2008. Built using Python, SQL, and Excel, this beginner-friendly project demonstrates key data analytics techniques while offering insights into Olympic history.
@@ -68,7 +68,7 @@ Additional questions explored:
 - Has any athlete won medals in multiple disciplines?
 - Performance trends of top 5 countries over time
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. IBM HR Analytics: Employee Attrition & Performance**
 
 A data-driven HR analytics project exploring the key factors influencing employee turnover, satisfaction, and performance. Leveraging Python, SQL, and machine learning, the project provides actionable insights into workforce dynamics using a fictional dataset developed by IBM data scientists.
@@ -111,7 +111,7 @@ Key Insights
 - Less stock options and limited promotions
 - Longer commuting distances
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. Stock Market Analysis – Tech Giants Edition**
 
 A comparative analytics and machine learning project analyzing historical stock data for Apple, Microsoft, Netflix, and Google. This project demonstrates financial data preprocessing, trend detection, and predictive modeling using Python, SQL, and Excel.
