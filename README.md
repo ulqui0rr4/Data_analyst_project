@@ -107,9 +107,9 @@ Key Insights
 - Attrition rate is ~16%, indicating moderate turnover
 - Average employee tenure before leaving: ~7 years
 - High attrition associated with:
-- Lower satisfaction scores
-- Less stock options and limited promotions
-- Longer commuting distances
+     Lower satisfaction scores
+     Less stock options and limited promotions
+     Longer commuting distances
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. Stock Market Analysis – Tech Giants Edition**
